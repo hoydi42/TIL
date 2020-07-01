@@ -99,3 +99,5 @@ while(True):
         break
 print("="*30)
 print("종료합니다. 꼭 당첨되길!")
+
+#뿝!
